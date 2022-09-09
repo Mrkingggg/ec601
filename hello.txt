@@ -20,4 +20,6 @@ hello Djin
 
 modifier~~
 
-modify at remote repo 
+modify at remote repo
+
+modified by person who clones it.
