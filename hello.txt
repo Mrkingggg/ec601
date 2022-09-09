@@ -23,3 +23,5 @@ modifier~~
 modify at remote repo
 
 modified by person who clones it.
+
+modify twice at remote website.
