@@ -25,3 +25,5 @@ modify at remote repo
 modified by person who clones it.
 
 modify twice at remote website.
+
+write something down, local has seen the change.
