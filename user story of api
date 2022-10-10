@@ -1,0 +1,4 @@
+for the user story of api.py: I, a reporter who want to know what's happening recently, or what is been frequently discussed among people, coule use the 
+api.py as my tool to collect the information above;
+for the user story of listohis.py: I, an advertiser who want to know how people talk about my products, would probably like to use the listohis.py to grab 
+people's comment and their edit histories.
